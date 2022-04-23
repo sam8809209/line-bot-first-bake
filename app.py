@@ -30,7 +30,7 @@ def callback():
     return 'OK'
 
 host = 'firstbakequest.azurewebsites.net'#主機
-endpoint_key = "447ae0ca-943b-42a8-83c6-f3ab54d0bab5"#授權碼
+endpoint_key = #授權碼
 qnakb="cb0d616f-bf18-44f8-9923-4bbd0858fc22"#GUID碼
 qnamethod= "/qnamaker/knowledgebases/" + qnakb + "/generateAnswer"
 
